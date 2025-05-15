@@ -12,14 +12,10 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 <!-- Adicione os que quiser -->
 
 
-## 📂 Repositórios em destaque
-
-- 🔥 [Projeto Incrível](https://github.com/seunome/projeto-incrivel): Uma descrição breve do que faz.
-- 🧠 [IA-Toolkit](https://github.com/seunome/IA-Toolkit): Ferramentas para projetos de inteligência artificial.
-
-## 🤝 Vamos Conectar
 
 
