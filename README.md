@@ -6,6 +6,11 @@
 - 🔭 Atualmente estudo em: `UFSJ - Universidade Federal de São João del Rei` 
 - 🌱 Aprendendo: `Ciência da Computação`
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-NOME-DE-USUARIO&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-NOME-DE-USUARIO&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## 🛠️ Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
