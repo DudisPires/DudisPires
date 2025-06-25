@@ -9,8 +9,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudispires&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)  <!-- .--> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudispires&layout=donut&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dudispires)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dudispires&repo=github-readme-stats)](https://github.com/DudisPires/PDF-Merger)
 ## 🛠️ Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
