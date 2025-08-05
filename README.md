@@ -7,7 +7,7 @@
 - 🔭 Atualmente estudo em: `UFSJ - Universidade Federal de São João del Rei`  
 - 🌱 Aprendendo: `Ciência da Computação`
      
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudispires&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats) <!-- .--> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudispires&layout=donut&theme=chartreuse-dark&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudispires&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats) <!-- .--> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudispires&layout=donut&theme=chartreuse-dark&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
  
 ## 🛠️ Tecnologias e Ferramentas
  
