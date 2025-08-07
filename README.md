@@ -2,7 +2,7 @@
 # 👋 Olá! Me chamo Eduardo Monteiro 
 
 
-## 🚀 Sobre mim
+## 🚀 Sobre mim 
  
 - 🔭 Atualmente estudo em: `UFSJ - Universidade Federal de São João del Rei`  
 - 🌱 Aprendendo: `Ciência da Computação`
